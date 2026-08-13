@@ -6,7 +6,7 @@ This is for the IBM "Getting Started with Git and GitHub" course on Coursera and
 - _Full Stack Software Developer_ -- 3rd course
 - _iOS and Android Mobile App Developer_ -- 5th course
 
-## LogisticsShippingRates
+## Logistics Shipping Rates
 Please consider the below factors while contributing
 
 Code Style:
