@@ -1,8 +1,9 @@
-# Purpose
+# Getting Started with Git and GitHub -- Final Project
 
-This is a forked repo created for the 3rd course of the _IBM Full Stack Software Developer_ program on Coursera.
+## Purpose
+This is for the IBM "Getting Started with Git and GitHub" course on Coursera and specifically for the Module 3 > Practice Project. It is a forked repo and the course is the 3rd course of the _IBM Full Stack Software Developer_ program on Coursera.
 
-# LogisticsShippingRates
+## LogisticsShippingRates
 Please consider the below factors while contributing
 
 Code Style:
