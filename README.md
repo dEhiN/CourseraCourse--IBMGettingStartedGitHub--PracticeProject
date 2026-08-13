@@ -1,4 +1,4 @@
-# Getting Started with Git and GitHub -- Final Project
+# Getting Started with Git and GitHub -- Practice Project
 
 ## Purpose
 This is for the IBM "Getting Started with Git and GitHub" course on Coursera and specifically for the Module 3 > Practice Project. It is a forked repo and the course is the 3rd course of the _IBM Full Stack Software Developer_ program on Coursera.
